@@ -1,11 +1,11 @@
-Practice portfolio website employing bootstrap and google analytics.For a simple static website this project employs more complex features than needed as an educational exercise.
+Practice portfolio website employing bootstrap and google analytics. For a simple static website this project employs more complex features than needed as an educational exercise.
 
 #### Version
 0.1.0
 
 #### Tech
 
-This site uses a number of open source projects to work properly:
+This html5 site uses a number of open source projects to work properly:
 * Bootstrap css templates
 * Grunt with plugins: uglify, mincss, min, jshint
 * Google Analytics JS
