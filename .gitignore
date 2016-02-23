@@ -1,1 +1,5 @@
 node_modules/
+Gemfile
+Gemfile.lock
+_config.yml
+_site/
